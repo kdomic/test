@@ -7,3 +7,10 @@
 . ./b4b.env
 
 echo "$env"
+if [ "$env" == "prod" ]
+then
+echo "Run prod"
+elif [ "$env" == "test" ]
+then 
+echo "Run test" 
+fi

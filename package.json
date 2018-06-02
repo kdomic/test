@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kdomic/test#readme",
   "dependencies": {
-    "momentjs": "^2.0.0"
+    "momentjs": "^2.0.0",
+    "mooo123erw": "1.0.0"
   }
 }

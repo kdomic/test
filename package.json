@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kdomic/test/issues"
   },
-  "homepage": "https://github.com/kdomic/test#readme"
+  "homepage": "https://github.com/kdomic/test#readme",
+  "dependencies": {
+    "momentjs": "^2.0.0"
+  }
 }
